@@ -4,7 +4,7 @@ This repository contains implementations in both C and C++ for various data stru
 
 - **HashSet Implementation (C)**: A custom implementation of a HashSet, which provides efficient methods for storing and retrieving unique elements.
 - **Vector Implementation (C)**: A dynamic array implementation that supports common operations such as resizing, insertion, and access.
-- **IMDb Finder (C++)**: A C project that uses pointer arithmetic and addresses to search and retrieve data from an array, showcasing low-level memory manipulation.
+- **IMDb Finder (C++)**: A C++ project that uses pointer arithmetic and addresses to search and retrieve data from an array, showcasing low-level memory manipulation.
 
 ## Projects
 
