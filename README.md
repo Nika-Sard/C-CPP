@@ -1,4 +1,4 @@
-# c-cpp Repository
+# C-CPP Repository
 
 This repository contains implementations in both C and C++ for various data structures and projects. The main highlights of this repository include:
 
